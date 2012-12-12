@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Chris Lowder"]
+  gem.authors       = ["Chris Lowder", "David Lowenfels"]
   gem.email         = ["clowder@gmail.com"]
   gem.description   = %q{AES encrypted attributes with Rails. Behaves similarly to Rails's #serialize and works for versions 2.3.x & 3.2.x.}
   gem.summary       = %q{AES encrypted attributes with Rails.}
